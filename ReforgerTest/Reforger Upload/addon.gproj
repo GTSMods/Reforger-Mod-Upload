@@ -1,0 +1,8 @@
+GameProject {
+ ID "ReforgerUpload"
+ GUID "64742CB1DF9BD984"
+ TITLE "Reforger Upload"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
